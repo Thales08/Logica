@@ -1,5 +1,5 @@
 /**
- * @author Arnaldo Victor Yamawaki Alves
+ * @author Thales Durães de Lima
  */
 //var onde = window.location.pathname;
 //alert (onde)
